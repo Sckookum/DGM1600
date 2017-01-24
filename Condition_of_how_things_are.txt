@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Truth is things as they are, what they were, and what THEY SHOULD BE!
+=======
+All around me are familiar faces, worn out places, worn out faces.
+>>>>>>> master
